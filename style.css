@@ -1,0 +1,46 @@
+body{
+background-color: rgb(3, 3, 32);
+}
+h2{
+    color: yellow;
+    text-align: center;
+}
+.green{
+    color: green;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.pic{
+    text-align: center;
+}
+table ,td, th{
+    border: 2px yellow solid;
+    border-collapse: collapse ;
+}
+th{
+    color: white;
+    background-color: rgb(11, 11, 78);
+}
+td{
+    color: white;
+}
+p{
+    color: white;
+}
+input{
+    width: 900%;
+}
+button{
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    margin: auto;
+    display: block;
+    width: 200px;
+    height: 35px;
+    border-radius: 25px;
+}
+
